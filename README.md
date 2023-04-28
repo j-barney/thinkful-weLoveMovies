@@ -5,7 +5,7 @@ This app lets users search for what movies are playing in a select list of theat
 
 ### Features include:
 
-+ View a selected movie's details such as description, rating, runtime, and average review rating.
++ View details such as description, rating, runtime, and average review rating for a selected movie.
 + See which theaters are showing a selected movie.
 + See critic reviews for a movie.
 + Rate a review.
