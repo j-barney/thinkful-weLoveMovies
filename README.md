@@ -1,4 +1,4 @@
-Alt-H1 We Love Movies
+#We Love Movies
 ##Hello there and welcome! 
 This app lets users search for what movies are playing in a select list of theaters.
 
